@@ -67,7 +67,6 @@ I'm a Computer Science (AI & ML) graduate passionate about building intelligent 
 
 - 📧 Email: **harshavardhansk233@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/harshavardhan-s-patil/**
-- 🌐 Portfolio: **https://your-portfolio.com**
 
 ---
 
