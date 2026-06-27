@@ -2,7 +2,7 @@
 
 ### AI & ML Engineer | Full-Stack Developer | Lifelong Learner
 
-I'm a Computer Science (AI & ML) graduate passionate about building intelligent applications that solve real-world problems. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Full-Stack Development, turning ideas into practical products.
+I'm a Computer Science (AI & ML) graduate passionate about building intelligent applications that solve real-world problems. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Data Science, turning ideas into practical products.
 
 ---
 
@@ -53,6 +53,13 @@ I'm a Computer Science (AI & ML) graduate passionate about building intelligent 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
