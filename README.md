@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there, I'm Harshavardhan S Patil 👋
 
-<!--
-**harshavardhan194/harshavardhan194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Engineer | Full-Stack Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a Computer Science (AI & ML) graduate passionate about building intelligent applications that solve real-world problems. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Full-Stack Development, turning ideas into practical products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Who I Am
+
+- 🎓 B.E. Computer Science (AI & ML)
+- 🤖 Interested in Generative AI, Machine Learning, and Software Engineering
+- 💡 I enjoy building AI-powered applications and scalable web platforms
+- 📚 Continuously improving my Data Structures & Algorithms and System Design skills
+- 🚀 Always exploring new technologies and best engineering practices
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🧠 Building AI-powered full-stack applications
+- 🤖 Exploring LLMs, AI Agents, and RAG systems
+- 💻 Solving Data Structures & Algorithms problems
+- 🌐 Learning scalable backend architecture and cloud technologies
+- 📖 Contributing to personal and open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-green?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B42BC?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **harshavardhansk233@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/harshavardhan-s-patil/**
+- 🌐 Portfolio: **https://your-portfolio.com**
+
+---
+
+> *"Code. Learn. Build. Repeat."* 🚀
