@@ -1,6 +1,6 @@
 # Hi there, I'm Harshavardhan S Patil 👋
 
-### AI & ML Engineer | Full-Stack Developer | Lifelong Learner
+### AI & ML Engineer | Lifelong Learner
 
 I'm a Computer Science (AI & ML) graduate passionate about building intelligent applications that solve real-world problems. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Data Science, turning ideas into practical products.
 
