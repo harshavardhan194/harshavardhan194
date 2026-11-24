@@ -65,7 +65,7 @@ I'm a Computer Science (AI & ML) graduate passionate about building intelligent 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: **harshavardhanspatil1.com**
+- 📧 Email: **harshavardhanspatil1@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/harshavardhan-s-patil/**
 
 ---
